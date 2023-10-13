@@ -1,5 +1,8 @@
 # Republic of Legends - Online Multiplayer Web3 NFT Card Game
-![Gameplay](https://i.ibb.co/4P2C08x/image.png)
+
+<img width="607" alt="Screenshot 2023-10-13 at 11 15 17 PM" src="https://github.com/themihirmathur/Republic-of-Legends/assets/92594107/a7c493ac-9a8c-4b83-bc36-e074c64cc5af">
+<img width="603" alt="Screenshot 2023-10-13 at 11 14 46 PM" src="https://github.com/themihirmathur/Republic-of-Legends/assets/92594107/e2e4b6b7-479d-4516-8e0a-a6c77a267b0a">
+
 
 ## Instructions on setting up the Web3 part of the project
 0. `cd web3`
